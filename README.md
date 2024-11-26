@@ -1,4 +1,4 @@
 # Project-Demo-New
-My First Repository.
+This is My First Git Repository.
 <br>
 Author-Kajal Gajjar
